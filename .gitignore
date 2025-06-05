@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables file (if you use one)
+.env
+
+# SQLite database file (if using default db)
+db.sqlite3
+
+# Django static and media files (optional, if you collectstatic or serve media separately)
+staticfiles/
+media/
+
+# VSCode settings folder (optional, if you use VSCode)
+.vscode/
+
+# MacOS system files (optional)
+.DS_Store
+
+
