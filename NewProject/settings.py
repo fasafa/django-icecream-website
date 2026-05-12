@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-u*o#j547vusnz26nxa7v8-i7zj51k66hy_0m_y1pmnsoc(aa1)
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "django-icecream-website.vercel.app",
+    "https://django-icecream-website-fc08vhg9i-fasafas-projects.vercel.app/",
     "localhost",
     "127.0.0.1",
 ]
